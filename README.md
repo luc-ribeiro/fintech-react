@@ -1,4 +1,4 @@
-# Nubank - Redesign
+# Fintech
 
 Este projeto faz parte do curso React com TypeScript [Origamid](https://www.origamid.com/).
 
