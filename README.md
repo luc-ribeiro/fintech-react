@@ -1,10 +1,14 @@
 # Fintech
 
-Este projeto faz parte do curso React com TypeScript [Origamid](https://www.origamid.com/).
+Este projeto faz parte do curso React com TypeScript da [Origamid](https://www.origamid.com/).
 
 ## Mais Informações
 
 O projeto é um dashboard simples que faz comunicação com uma API que filtra dados de vendas a partir de uma data de início e data final específica.
+Esse projeto foi criado para fins de estudo.
+
+## Preview
+![banner](https://github.com/luc-ribeiro/fintech/blob/main/design/preview.png)
 
 <h3>📚 Linguagens / Frameworks / Bibliotecas</h3>
 
