@@ -2,7 +2,14 @@
   <img src="./src/assets/fintech.svg" />
 </div> 
 
-## Mais Informações
+<br>
+<br>
+
+<div align="right">
+  Click <a href="https://github.com/luc-ribeiro/fintech-react/blob/main/README.md">here</a> to view the english version.
+</div>
+
+## Projeto
 
 Um dashboard simples que faz comunicação com uma API que filtra dados de vendas a partir de uma data de início e data final específica.
 Esse projeto foi criado para fins de estudo.
